@@ -1,0 +1,72 @@
+[
+  {
+    "id": "inst-1",
+    "name": "Instructor 1",
+    "bio": "Expert in various domains with over 5 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst0",
+    "coursesTaught": 2
+  },
+  {
+    "id": "inst-2",
+    "name": "Instructor 2",
+    "bio": "Expert in various domains with over 8 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst1",
+    "coursesTaught": 10
+  },
+  {
+    "id": "inst-3",
+    "name": "Instructor 3",
+    "bio": "Expert in various domains with over 14 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst2",
+    "coursesTaught": 5
+  },
+  {
+    "id": "inst-4",
+    "name": "Instructor 4",
+    "bio": "Expert in various domains with over 11 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst3",
+    "coursesTaught": 9
+  },
+  {
+    "id": "inst-5",
+    "name": "Instructor 5",
+    "bio": "Expert in various domains with over 8 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst4",
+    "coursesTaught": 3
+  },
+  {
+    "id": "inst-6",
+    "name": "Instructor 6",
+    "bio": "Expert in various domains with over 5 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst5",
+    "coursesTaught": 6
+  },
+  {
+    "id": "inst-7",
+    "name": "Instructor 7",
+    "bio": "Expert in various domains with over 11 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst6",
+    "coursesTaught": 4
+  },
+  {
+    "id": "inst-8",
+    "name": "Instructor 8",
+    "bio": "Expert in various domains with over 5 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst7",
+    "coursesTaught": 9
+  },
+  {
+    "id": "inst-9",
+    "name": "Instructor 9",
+    "bio": "Expert in various domains with over 10 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst8",
+    "coursesTaught": 5
+  },
+  {
+    "id": "inst-10",
+    "name": "Instructor 10",
+    "bio": "Expert in various domains with over 7 years of experience.",
+    "avatar": "https://i.pravatar.cc/150?u=inst9",
+    "coursesTaught": 3
+  }
+]

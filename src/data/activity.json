@@ -1,0 +1,54 @@
+{
+  "commits": [
+    {
+      "hash": "a1b2c3d",
+      "message": "Initial React Setup",
+      "author": "Dev Team",
+      "date": "2026-06-18T10:00:00Z"
+    },
+    {
+      "hash": "e4f5g6h",
+      "message": "Added Responsive Navbar",
+      "author": "Frontend Dev",
+      "date": "2026-06-18T12:30:00Z"
+    },
+    {
+      "hash": "i7j8k9l",
+      "message": "Implemented Course Catalog",
+      "author": "Frontend Dev",
+      "date": "2026-06-19T09:15:00Z"
+    },
+    {
+      "hash": "m1n2o3p",
+      "message": "Fixed Safari Layout Issue",
+      "author": "QA Team",
+      "date": "2026-06-19T11:45:00Z"
+    },
+    {
+      "hash": "q4r5s6t",
+      "message": "Improved Firefox Compatibility",
+      "author": "Frontend Dev",
+      "date": "2026-06-19T14:20:00Z"
+    },
+    {
+      "hash": "u7v8w9x",
+      "message": "Updated Dashboard UI",
+      "author": "UI/UX Designer",
+      "date": "2026-06-19T16:00:00Z"
+    },
+    {
+      "hash": "y1z2a3b",
+      "message": "Release v1.0.0",
+      "author": "DevOps",
+      "date": "2026-06-19T16:30:00Z"
+    }
+  ],
+  "branches": [
+    "main",
+    "feature/catalog",
+    "fix/safari-layout"
+  ],
+  "releases": [
+    "v1.0.0"
+  ]
+}

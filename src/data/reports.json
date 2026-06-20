@@ -1,0 +1,21 @@
+{
+  "testedBrowsers": [
+    "Chrome 120+",
+    "Firefox 120+",
+    "Edge 120+",
+    "Safari 17+"
+  ],
+  "compatibilityStatus": {
+    "Chrome": "100% Compatible",
+    "Firefox": "98% Compatible (Minor font smoothing differences)",
+    "Edge": "100% Compatible",
+    "Safari": "95% Compatible (Specific flexbox bugs mitigated)"
+  },
+  "knownIssues": [
+    {
+      "issue": "Safari mobile 100vh bug",
+      "fix": "Using min-height 100vh with inner container adjustments",
+      "status": "Resolved"
+    }
+  ]
+}

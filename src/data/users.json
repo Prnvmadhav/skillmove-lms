@@ -1,0 +1,77 @@
+[
+  {
+    "id": "user-1",
+    "name": "Student 1",
+    "email": "student1@example.com",
+    "enrolledCourses": [
+      {
+        "courseId": "course-1",
+        "progress": 51
+      },
+      {
+        "courseId": "course-6",
+        "progress": 95
+      }
+    ]
+  },
+  {
+    "id": "user-2",
+    "name": "Student 2",
+    "email": "student2@example.com",
+    "enrolledCourses": [
+      {
+        "courseId": "course-2",
+        "progress": 48
+      },
+      {
+        "courseId": "course-7",
+        "progress": 69
+      }
+    ]
+  },
+  {
+    "id": "user-3",
+    "name": "Student 3",
+    "email": "student3@example.com",
+    "enrolledCourses": [
+      {
+        "courseId": "course-3",
+        "progress": 52
+      },
+      {
+        "courseId": "course-8",
+        "progress": 24
+      }
+    ]
+  },
+  {
+    "id": "user-4",
+    "name": "Student 4",
+    "email": "student4@example.com",
+    "enrolledCourses": [
+      {
+        "courseId": "course-4",
+        "progress": 89
+      },
+      {
+        "courseId": "course-9",
+        "progress": 69
+      }
+    ]
+  },
+  {
+    "id": "user-5",
+    "name": "Student 5",
+    "email": "student5@example.com",
+    "enrolledCourses": [
+      {
+        "courseId": "course-5",
+        "progress": 80
+      },
+      {
+        "courseId": "course-10",
+        "progress": 39
+      }
+    ]
+  }
+]

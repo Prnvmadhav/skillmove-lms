@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cert-1",
+    "userId": "user-1",
+    "courseId": "course-1",
+    "issueDate": "2026-03-06",
+    "url": "/certificates/cert-1.pdf"
+  },
+  {
+    "id": "cert-2",
+    "userId": "user-2",
+    "courseId": "course-2",
+    "issueDate": "2026-05-17",
+    "url": "/certificates/cert-2.pdf"
+  },
+  {
+    "id": "cert-3",
+    "userId": "user-3",
+    "courseId": "course-3",
+    "issueDate": "2026-04-18",
+    "url": "/certificates/cert-3.pdf"
+  },
+  {
+    "id": "cert-4",
+    "userId": "user-4",
+    "courseId": "course-4",
+    "issueDate": "2026-03-02",
+    "url": "/certificates/cert-4.pdf"
+  },
+  {
+    "id": "cert-5",
+    "userId": "user-5",
+    "courseId": "course-5",
+    "issueDate": "2026-05-24",
+    "url": "/certificates/cert-5.pdf"
+  },
+  {
+    "id": "cert-6",
+    "userId": "user-1",
+    "courseId": "course-6",
+    "issueDate": "2026-06-07",
+    "url": "/certificates/cert-6.pdf"
+  },
+  {
+    "id": "cert-7",
+    "userId": "user-2",
+    "courseId": "course-7",
+    "issueDate": "2026-04-05",
+    "url": "/certificates/cert-7.pdf"
+  },
+  {
+    "id": "cert-8",
+    "userId": "user-3",
+    "courseId": "course-8",
+    "issueDate": "2026-05-23",
+    "url": "/certificates/cert-8.pdf"
+  },
+  {
+    "id": "cert-9",
+    "userId": "user-4",
+    "courseId": "course-9",
+    "issueDate": "2026-03-25",
+    "url": "/certificates/cert-9.pdf"
+  },
+  {
+    "id": "cert-10",
+    "userId": "user-5",
+    "courseId": "course-10",
+    "issueDate": "2026-03-17",
+    "url": "/certificates/cert-10.pdf"
+  }
+]
