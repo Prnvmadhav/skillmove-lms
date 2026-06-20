@@ -39,7 +39,7 @@ const StudentDashboard = () => {
           </div>
         </div>
         <div className="card flex items-center gap-4">
-          <div style={{ padding: '1rem', backgroundColor: 'rgba(245, 159, 11, 0.71)', borderRadius: 'var(--radius-md)', color: 'var(--warning)' }}>
+          <div style={{ padding: '1rem', backgroundColor: 'rgba(173, 115, 14, 0.71)', borderRadius: 'var(--radius-md)', color: 'var(--warning)' }}>
             <Clock size={24} />
           </div>
           <div>
