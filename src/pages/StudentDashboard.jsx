@@ -21,7 +21,7 @@ const StudentDashboard = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
         <div className="card flex items-center gap-4">
-          <div style={{ padding: '1rem', backgroundColor: 'rgba(79, 70, 229, 0.1)', borderRadius: 'var(--radius-md)', color: 'var(--primary)' }}>
+          <div style={{ padding: '1rem', backgroundColor: 'rgba(52, 42, 228, 0.1)', borderRadius: 'var(--radius-md)', color: 'var(--primary)' }}>
             <BookOpen size={24} />
           </div>
           <div>
