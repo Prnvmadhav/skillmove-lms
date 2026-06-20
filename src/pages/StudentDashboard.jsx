@@ -30,7 +30,7 @@ const StudentDashboard = () => {
           </div>
         </div>
         <div className="card flex items-center gap-4">
-          <div style={{ padding: '1rem', backgroundColor: 'rgba(16, 185, 129, 0.1)', borderRadius: 'var(--radius-md)', color: 'var(--success)' }}>
+          <div style={{ padding: '1rem', backgroundColor: 'rgba(21, 214, 150, 0.1)', borderRadius: 'var(--radius-md)', color: 'var(--success)' }}>
             <Award size={24} />
           </div>
           <div>
